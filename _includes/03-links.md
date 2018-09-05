@@ -1,1 +1,2 @@
-https://www.google.ca/search?q=smile&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjPrdKwy6TdAhWK3VMKHYIXCwEQ_AUICigB&biw=1280&bih=854#imgrc=9jlJDDHppGwrsM:
+https://github.com/BeHappppy/markdown-portfolio/edit/add-images-links/_includes/03-links.md?pr=%2FBeHappppy%2Fmarkdown-portfolio%2Fpull%2F3
+
