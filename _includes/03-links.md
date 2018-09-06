@@ -1,2 +1,2 @@
-[google]https://www.google.ca/search?q=google&oq=google&aqs=chrome..69i57j0l2j69i59j0j69i60.2115j1j8&sourceid=chrome&ie=UTF-8
+[image of goggle]https://www.google.ca/search?q=google&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiI6u356qbdAhVJR6wKHZ1ZDUgQ_AUIDSgE&biw=1280&bih=854#imgrc=oVSh8jnue51D1M:
 
